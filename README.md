@@ -66,3 +66,5 @@
 * Communicate results more rapidly
 * Lead (the field) by example
 * Plan R01 task delegation far in advance
+* Plan wetlab experiments efficiently. 
+  * Should we avoid monthly whole lab meetings?
