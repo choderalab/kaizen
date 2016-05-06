@@ -1,8 +1,9 @@
-[![Feature Requests](http://feathub.com/choderalab/kaizen?format=svg)](http://feathub.com/choderalab/kaizen)
-
 # Kaizen: The art of continual improvement
 
-## 5 May 2016 suggestions
+### Proposed implementations
+[![Feature Requests](http://feathub.com/choderalab/kaizen?format=svg)](http://feathub.com/choderalab/kaizen)
+
+### Concerns
 * Lab notebooks
 * Instrument status/service/repair calendar
 * Lab tutorials / primers / hot topics
